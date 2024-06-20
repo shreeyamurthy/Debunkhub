@@ -114,7 +114,7 @@ The entire project is centered around Natural Language Processing (NLP), leverag
 1. Clone the repository:
 
    ```bash
-      git clone https://github.com/vempatisaivishal/GlobalTruthHub.git
+      git clone https://github.com/shreeyamurthy/Debunkhub.git
    ```
 
 2. Install dependencies:
@@ -147,15 +147,5 @@ Users can customize the project by modifying the Bard API key. In case users enc
 - **Database Integration:** Future plans include connecting the project to a database for data storage and retrieval.
 - **Power BI Integration:** Explore options for enhancing interactivity by integrating the project with Power BI.
 
-## Contact Information
-
-For any inquiries or support, please contact Saivishal Vempati at [vempatisaivishal@gmail.com](mailto:vempatisaivishal@gmail.com).
-
-## Credits
-
-- Generative AI
-- Google Bard
-  
-Mediga Vishal Vardhan
 
 ---
